@@ -1,2 +1,2 @@
 # Compilador-simple-JavaScript
-Procesadores de Lenguajes(2020)
+Proyecto 2020: un compilador simple de JavaScript
