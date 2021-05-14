@@ -1,0 +1,48 @@
+CONTENIDO DE LA TABLA # 1 :
+*	LEXEMA : 'n1'
+	ATRIBUTOS :
+	+ tipo : 'entero'
+	+ despl : 0
+--------------------------------------
+*	LEXEMA : 'n2'
+	ATRIBUTOS :
+	+ tipo : 'entero'
+	+ despl : 1
+--------------------------------------
+*	LEXEMA : 'l1'
+	ATRIBUTOS :
+	+ tipo : 'logico'
+	+ despl : 2
+--------------------------------------
+*	LEXEMA : 'l2'
+	ATRIBUTOS :
+	+ tipo : 'logico'
+	+ despl : 3
+--------------------------------------
+*	LEXEMA : 'cad'
+	ATRIBUTOS :
+	+ tipo : 'cadena'
+	+ despl : 4
+--------------------------------------
+*	LEXEMA : 'ff'
+	ATRIBUTOS :
+	+ tipo : 'funcion'
+	+ numParam : 1
+	+ tipoParam1 : 'logico'
+	+ TipoRetorno : 'logico'
+	+ EtiqFuncion : 'Et_ff'
+--------------------------------------
+*	LEXEMA : 'varglobal'
+	ATRIBUTOS :
+	+ tipo : 'entero'
+	+ despl : 68
+--------------------------------------
+
+CONTENIDO DE LA TABLA # 2 :
+*	LEXEMA : 'ss'
+	ATRIBUTOS :
+	+ tipo : 'logico'
+	+ despl : 0
+--------------------------------------
+
+
